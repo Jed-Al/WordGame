@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guess_word_bullseye/static/css/main.84d4fedd.css",
+    "main.js": "/guess_word_bullseye/static/js/main.661e294c.js",
+    "static/js/787.bea5ca9f.chunk.js": "/guess_word_bullseye/static/js/787.bea5ca9f.chunk.js",
+    "index.html": "/guess_word_bullseye/index.html",
+    "main.84d4fedd.css.map": "/guess_word_bullseye/static/css/main.84d4fedd.css.map",
+    "main.661e294c.js.map": "/guess_word_bullseye/static/js/main.661e294c.js.map",
+    "787.bea5ca9f.chunk.js.map": "/guess_word_bullseye/static/js/787.bea5ca9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84d4fedd.css",
+    "static/js/main.661e294c.js"
+  ]
+}
